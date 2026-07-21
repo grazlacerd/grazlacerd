@@ -1,8 +1,8 @@
 #  👩‍💻 Grazielly Lacerda
 
-**`Cursando Full Stack`**
+**`Cursando Técnico Full Stack`**
 
-Me chamo Grazielly Gonçalves Lacerda, tenho 21 anos, sou de São Paulo-SP e curso Técnico Full Stack na Instituição Senac desde outubro/2025. Tenho uma grande paixão por tecnologia e publicidade, atualmente estou desenvolvendo alguns projetos com os meus conhecimentos onde coloco em prática assuntos de sala de aula!
+Me chamo Grazielly Gonçalves Lacerda, tenho 21 anos e gosto muito de design! Estou cursando Técnico em informática para internet no Senac para ingressar na área de tecnologia com foco em **Front End** & **UI/UX Design.** São áreas que possuo uma grande curiosidade para me desenvolver como profissional e venho estudando constantemente para o meu conhecimento nessa jornada! 1
 
 ### 🤖 Linguagens e Tecnologias
 
