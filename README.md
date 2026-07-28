@@ -1,6 +1,6 @@
 #  👩‍💻 Grazielly Lacerda
 
-**`Dev Full Stack Jr & UI/UX designer`**
+**`Dev Full Stack Jr & UI/UX Designer`**
 
 Me chamo Grazielly Gonçalves Lacerda, tenho 21 anos e gosto muito de design! Estou cursando Técnico em informática para internet no Senac para ingressar na área de tecnologia com foco em **Front End** & **UI/UX Design.** São áreas que possuo uma grande curiosidade para me desenvolver como profissional e venho estudando constantemente para o meu conhecimento nessa jornada!
 
